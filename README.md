@@ -2,7 +2,7 @@
 
 Generates mazes using Prim's algorithm
 
-To run the sample, follow these steps:
+To run the app, follow these steps:
 
 #### 1. Install Maven
 
